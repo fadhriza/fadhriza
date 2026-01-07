@@ -112,41 +112,45 @@ const rizal = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fadhriza&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=fadhriza&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fadhriza&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhriza&theme=radical&hide_border=true" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhriza&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=fadhriza&limit=5&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Contributed Repos"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fadhriza&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhriza&theme=radical&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=fadhriza&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fadhriza&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fadhriza&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
 
 ---
 
-## 🔥 Metrics
+## 📈 Contribution Activity
 
-<div align="center">
-  
-![Metrics](https://metrics.lecoq.io/fadhriza?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FJakarta)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadhriza&theme=redical&hide_border=true&area=true" />
+</p>
 
-</div>
+---
+
+## 🎯 Profile Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadhriza&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fadhriza&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fadhriza&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fadhriza&theme=radical&utcOffset=7" />
+</p>
 
 ---
 
