@@ -159,17 +159,6 @@ const rizal = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
-<!-- ===== Carousel Styles (GitHub Safe) ===== -->
-
-<style>
-@keyframes partner-scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-</style>
-
-<!-- ===== Partner Contribution ===== -->
-
 <div align="center">
 
 <marquee behavior="scroll" direction="left" scrollamount="5">
