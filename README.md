@@ -110,25 +110,47 @@ const rizal = {
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fadhriza&show_icons=true&theme=dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhriza&theme=dark&hide_border=true" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fadhriza&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhriza&theme=radical&hide_border=true" />
+</p>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhriza&theme=dark&hide_border=true&layout=compact" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fadhriza&show_icons=true&theme=dark&hide_border=true" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhriza&theme=radical&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=fadhriza&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fadhriza&theme=darkhub&no-frame=true&row=1&column=6" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fadhriza&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fadhriza&theme=redical&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🎯 Profile Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadhriza&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fadhriza&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fadhriza&theme=radical" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fadhriza&theme=radical&utcOffset=7" />
+</p>
 
 ---
 
@@ -149,7 +171,7 @@ const rizal = {
 <div align="center">
 
 ### 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🎯 Let's Build Something Amazing Together!
 
