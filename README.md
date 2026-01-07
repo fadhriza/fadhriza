@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const rizal = {
@@ -29,7 +29,8 @@ const rizal = {
 
 <div align="center">
 
-### 💼 Currently Working On
+### Currently Working On
+**PT Summit Global Technology** - Full Stack Developers on SE'I and Hygge Hotel
 **Freelance Projects** - Crafting digital solutions for amazing clients worldwide
 
 ### 📬 Let's Connect
