@@ -172,28 +172,21 @@ const rizal = {
 
 <div align="center">
 
-<div style="overflow:hidden; width:100%;">
-  <div style="
-    display:inline-flex;
-    gap:40px;
-    align-items:center;
-    white-space:nowrap;
-    animation: partner-scroll 25s linear infinite;
-  ">
+<marquee behavior="scroll" direction="left" scrollamount="5">
 
-<img src="https://fadhrizafotress.my.id/company-logos/logo-1767380816922.png" height="55" alt="Pemerintah Kecamatan Pameungpeuk"/>
-<img src="https://fadhrizafotress.my.id/company-logos/logo-1767380786121.png" height="55" alt="EKA Training TrailBlazzer"/>
-<img src="https://fadhrizafotress.my.id/company-logos/logo-1767380663781.png" height="55" alt="PT Bangkit Lakuliner"/>
-<img src="https://fadhrizafotress.my.id/company-logos/logo-1767380700400.png" height="55" alt="PT Inhype Creative Indonesia"/>
-<img src="https://fadhrizafotress.my.id/company-logos/logo-1767381012313.png" height="55" alt="PT Pindad Persero"/>
-<img src="https://fadhrizafotress.my.id/company-logos/logo-1767380841192.jpg" height="55" alt="PT Magelanic Garuda Kencana"/>
-<img src="https://falcongames.com/wp-content/uploads/2022/05/Asset-1@4x-8-1.png" height="55" alt="Falcon Game Studio"/>
-<img src="https://media.cake.me/image/upload/s--G4zkaMVP--/c_pad,fl_png8,h_400,w_400/v1658498636/jqegecjqbfauwrrzri3l.png" height="55" alt="Bangkit Academy"/>
+<img src="https://fadhrizafotress.my.id/company-logos/logo-1767380816922.png" height="55" style="margin-right:40px;" />
+<img src="https://fadhrizafotress.my.id/company-logos/logo-1767380786121.png" height="55" style="margin-right:40px;" />
+<img src="https://fadhrizafotress.my.id/company-logos/logo-1767380663781.png" height="55" style="margin-right:40px;" />
+<img src="https://fadhrizafotress.my.id/company-logos/logo-1767380700400.png" height="55" style="margin-right:40px;" />
+<img src="https://fadhrizafotress.my.id/company-logos/logo-1767381012313.png" height="55" style="margin-right:40px;" />
+<img src="https://fadhrizafotress.my.id/company-logos/logo-1767380841192.jpg" height="55" style="margin-right:40px;" />
+<img src="https://falcongames.com/wp-content/uploads/2022/05/Asset-1@4x-8-1.png" height="55" style="margin-right:40px;" />
+<img src="https://media.cake.me/image/upload/s--G4zkaMVP--/c_pad,fl_png8,h_400,w_400/v1658498636/jqegecjqbfauwrrzri3l.png" height="55" style="margin-right:40px;" />
 
-  </div>
-</div>
+</marquee>
 
 </div>
+
 
 ---
 
