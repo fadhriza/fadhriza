@@ -43,7 +43,7 @@ const rizal = {
 
 | Company / Type | Role |
 | --- | --- |
-| **PT Summit Global Technology** | Full Stack Developer (SE'I & Hygge Hotel) |
+| **PT Askarasoft Solusi Indonesia** | Bitrix Full Stack Developer |
 | **Freelance** | Crafting digital solutions worldwide |
 
 </div>
